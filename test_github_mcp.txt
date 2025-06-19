@@ -1,0 +1,2 @@
+GitHub MCP integration test file
+Created via Rooroo workflow
